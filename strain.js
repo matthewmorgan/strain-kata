@@ -1,0 +1,5 @@
+class Strain {
+
+}
+
+export {Strain};
